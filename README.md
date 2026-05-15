@@ -1,13 +1,10 @@
-# Hi 👋, Im Matheus Gonçalves. 
+# Hi 👋, I'm Matheus Gonçalves
 
-💻 **Junior Front-End Developer passionate about technology, design, and building modern digital projects.**
+<sub>Olá, eu sou Matheus Gonçalves 🇧🇷</sub>
 
-Currently focused on learning and developing projects related to:
-- Modern and responsive interfaces
-- Web systems
-- Automation
-- SaaS platforms
-- UI/UX and visual experiences
+💻 **Junior Front-End Developer passionate about technology, design, automation, and building modern digital experiences.**
+
+<sub>Desenvolvedor Front-End Junior apaixonado por tecnologia, design, automação e criação de experiências digitais modernas 🇧🇷</sub>
 
 ---
 
@@ -54,9 +51,9 @@ Currently working on:
 ## 🌎 Contact
 
 📧 theusfpss@gmail.com  
-📱 Instagram: @its.theusfpss 
-💼 LinkedIn: https://www.linkedin.com/in/matheus-gonçalves-a75958376/
+📱 Instagram: @its.theusfpss  
+💼 LinkedIn: www.linkedin.com/in/matheus-gonçalves-a75958376/
 
 ---
 
-⭐ Always learning something new.
+⭐ Always learning, building, and evolving.
