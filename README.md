@@ -10,6 +10,8 @@
 
 ## 🚀 Technologies & Tools
 
+<sub>Tecnologias e ferramentas 🇧🇷</sub>
+
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,28 +29,52 @@
 
 ## 📚 About Me
 
+<sub>Sobre mim 🇧🇷</sub>
+
 I'm a Junior Developer constantly improving my skills and exploring new technologies to build increasingly professional projects.
+
+<sub>Sou um Desenvolvedor Junior em constante evolução, sempre buscando aprender novas tecnologias e criar projetos cada vez mais profissionais 🇧🇷</sub>
 
 I enjoy turning ideas into modern, functional, and visually appealing experiences.
 
+<sub>Gosto de transformar ideias em experiências modernas, funcionais e visualmente atraentes 🇧🇷</sub>
+
 Currently working on:
-- 📖 AI-powered study platform
-- 🛒 Systems and dashboards
-- 🎨 Modern UI-focused projects
-- ⚡ Automation and productivity tools
+
+<sub>Atualmente trabalhando em 🇧🇷</sub>
+
+- 🛒 Systems and dashboards  
+  <sub>Sistemas e dashboards 🇧🇷</sub>
+
+- 🎨 Modern UI-focused projects  
+  <sub>Projetos modernos focados em UI/UX 🇧🇷</sub>
+
+- ⚡ Automation and productivity tools  
+  <sub>Ferramentas de automação e produtividade 🇧🇷</sub>
 
 ---
 
 ## 📌 Goals
 
-- Grow as a Full Stack Developer
-- Work on international projects
-- Build my own SaaS products
-- Live abroad working with technology
+<sub>Objetivos 🇧🇷</sub>
+
+- Grow as a Full Stack Developer  
+  <sub>Evoluir como Desenvolvedor Full Stack 🇧🇷</sub>
+
+- Work on international projects  
+  <sub>Trabalhar em projetos internacionais 🇧🇷</sub>
+
+- Build my own SaaS products  
+  <sub>Criar meus próprios produtos SaaS 🇧🇷</sub>
+
+- Live abroad working with technology  
+  <sub>Morar fora do Brasil trabalhando com tecnologia 🇧🇷</sub>
 
 ---
 
 ## 🌎 Contact
+
+<sub>Contato 🇧🇷</sub>
 
 📧 theusfpss@gmail.com  
 📱 Instagram: @its.theusfpss  
@@ -57,3 +83,5 @@ Currently working on:
 ---
 
 ⭐ Always learning, building, and evolving.
+
+<sub>Sempre aprendendo, criando e evoluindo 🇧🇷</sub>
