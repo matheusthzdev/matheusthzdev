@@ -1,16 +1,13 @@
-# Hi 👋, I'm Matheus Gonçalves
+# Hi 👋, I'm Matheus Gonçalves  
+###### (Olá, eu sou Matheus Gonçalves 🇧🇷)
 
-<sub>Olá, eu sou Matheus Gonçalves 🇧🇷</sub>
-
-💻 **Junior Front-End Developer passionate about technology, design, automation, and building modern digital experiences.**
-
-<sub>Desenvolvedor Front-End Junior apaixonado por tecnologia, design, automação e criação de experiências digitais modernas 🇧🇷</sub>
+💻 **Junior Front-End Developer passionate about technology, design, automation, and building modern digital experiences.**  
+###### (Desenvolvedor Front-End Junior apaixonado por tecnologia, design, automação e criação de experiências digitais modernas 🇧🇷)
 
 ---
 
-## 🚀 Technologies & Tools
-
-<sub>Tecnologias e ferramentas 🇧🇷</sub>
+## 🚀 Technologies & Tools  
+###### (Tecnologias e ferramentas 🇧🇷)
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
@@ -27,54 +24,48 @@
 
 ---
 
-## 📚 About Me
+## 📚 About Me  
+###### (Sobre mim 🇧🇷)
 
-<sub>Sobre mim 🇧🇷</sub>
+I'm a Junior Developer constantly improving my skills and exploring new technologies to build increasingly professional projects.  
+###### (Sou um Desenvolvedor Junior em constante evolução, sempre buscando aprender novas tecnologias e criar projetos cada vez mais profissionais 🇧🇷)
 
-I'm a Junior Developer constantly improving my skills and exploring new technologies to build increasingly professional projects.
+I enjoy turning ideas into modern, functional, and visually appealing experiences.  
+###### (Gosto de transformar ideias em experiências modernas, funcionais e visualmente atraentes 🇧🇷)
 
-<sub>Sou um Desenvolvedor Junior em constante evolução, sempre buscando aprender novas tecnologias e criar projetos cada vez mais profissionais 🇧🇷</sub>
-
-I enjoy turning ideas into modern, functional, and visually appealing experiences.
-
-<sub>Gosto de transformar ideias em experiências modernas, funcionais e visualmente atraentes 🇧🇷</sub>
-
-Currently working on:
-
-<sub>Atualmente trabalhando em 🇧🇷</sub>
+Currently working on:  
+###### (Atualmente trabalhando em 🇧🇷)
 
 - 🛒 Systems and dashboards  
-  <sub>Sistemas e dashboards 🇧🇷</sub>
+###### (Sistemas e dashboards 🇧🇷)
 
 - 🎨 Modern UI-focused projects  
-  <sub>Projetos modernos focados em UI/UX 🇧🇷</sub>
+###### (Projetos modernos focados em UI/UX 🇧🇷)
 
 - ⚡ Automation and productivity tools  
-  <sub>Ferramentas de automação e produtividade 🇧🇷</sub>
+###### (Ferramentas de automação e produtividade 🇧🇷)
 
 ---
 
-## 📌 Goals
-
-<sub>Objetivos 🇧🇷</sub>
+## 📌 Goals  
+###### (Objetivos 🇧🇷)
 
 - Grow as a Full Stack Developer  
-  <sub>Evoluir como Desenvolvedor Full Stack 🇧🇷</sub>
+###### (Evoluir como Desenvolvedor Full Stack 🇧🇷)
 
 - Work on international projects  
-  <sub>Trabalhar em projetos internacionais 🇧🇷</sub>
+###### (Trabalhar em projetos internacionais 🇧🇷)
 
 - Build my own SaaS products  
-  <sub>Criar meus próprios produtos SaaS 🇧🇷</sub>
+###### (Criar meus próprios produtos SaaS 🇧🇷)
 
 - Live abroad working with technology  
-  <sub>Morar fora do Brasil trabalhando com tecnologia 🇧🇷</sub>
+###### (Morar fora do Brasil trabalhando com tecnologia 🇧🇷)
 
 ---
 
-## 🌎 Contact
-
-<sub>Contato 🇧🇷</sub>
+## 🌎 Contact  
+###### (Contato 🇧🇷)
 
 📧 theusfpss@gmail.com  
 📱 Instagram: @its.theusfpss  
@@ -82,6 +73,5 @@ Currently working on:
 
 ---
 
-⭐ Always learning, building, and evolving.
-
-<sub>Sempre aprendendo, criando e evoluindo 🇧🇷</sub>
+⭐ Always learning, building, and evolving.  
+###### (Sempre aprendendo, criando e evoluindo 🇧🇷)
