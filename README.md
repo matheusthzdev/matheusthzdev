@@ -1,10 +1,13 @@
-# Hi 👋, I'm Matheus Gonçalves  
-💻 **Junior Front-End Developer passionate about technology, design, automation, and building modern digital experiences.**  
-###### (Desenvolvedor Front-End Junior apaixonado por tecnologia, design, automação e criação de experiências digitais modernas 🇧🇷)
+# Hi 👋, I'm Matheus Gonçalves
+##### (Olá, eu sou Matheus Gonçalves 🇧🇷)
+
+💻 **Junior Front-End Developer passionate about technology, design, automation, and building modern digital experiences.**
+##### (Desenvolvedor Front-End Junior apaixonado por tecnologia, design, automação e criação de experiências digitais modernas 🇧🇷)
 
 ---
 
-## 🚀 Technologies & Tools  
+## 🚀 Technologies & Tools
+##### (Tecnologias e ferramentas 🇧🇷)
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
@@ -21,47 +24,43 @@
 
 ---
 
-## 📚 About Me  
+## 📚 About Me
+##### (Sobre mim 🇧🇷)
 
-I'm a Junior Developer constantly improving my skills and exploring new technologies to build increasingly professional projects.  
-###### (Sou um Desenvolvedor Junior em constante evolução, sempre buscando aprender novas tecnologias e criar projetos cada vez mais profissionais 🇧🇷)
+I'm a Junior Developer constantly improving my skills and exploring new technologies to build increasingly professional projects.
+##### (Sou um Desenvolvedor Junior em constante evolução, sempre buscando aprender novas tecnologias e criar projetos cada vez mais profissionais 🇧🇷)
 
-I enjoy turning ideas into modern, functional, and visually appealing experiences.  
-###### (Gosto de transformar ideias em experiências modernas, funcionais e visualmente atraentes 🇧🇷)
+I enjoy turning ideas into modern, functional, and visually appealing experiences.
+##### (Gosto de transformar ideias em experiências modernas, funcionais e visualmente atraentes 🇧🇷)
 
-Currently working on:  
-###### (Atualmente trabalhando em 🇧🇷)
+Currently working on:
+##### (Atualmente trabalhando em 🇧🇷)
 
-- 🛒 Systems and dashboards  
-###### (Sistemas e dashboards 🇧🇷)
-
-- 🎨 Modern UI-focused projects  
-###### (Projetos modernos focados em UI/UX 🇧🇷)
-
-- ⚡ Automation and productivity tools  
-###### (Ferramentas de automação e produtividade 🇧🇷)
-
----
-
-## 📌 Goals  
-###### (Objetivos 🇧🇷)
-
-- Grow as a Full Stack Developer  
-###### (Evoluir como Desenvolvedor Full Stack 🇧🇷)
-
-- Work on international projects  
-###### (Trabalhar em projetos internacionais 🇧🇷)
-
-- Build my own SaaS products  
-###### (Criar meus próprios produtos SaaS 🇧🇷)
-
-- Live abroad working with technology  
-###### (Morar fora do Brasil trabalhando com tecnologia 🇧🇷)
+- 🛒 Systems and dashboards
+##### (Sistemas e dashboards 🇧🇷)
+- 🎨 Modern UI-focused projects
+##### (Projetos modernos focados em UI/UX 🇧🇷)
+- ⚡ Automation and productivity tools
+##### (Ferramentas de automação e produtividade 🇧🇷)
 
 ---
 
-## 🌎 Contact  
-###### (Contato 🇧🇷)
+## 📌 Goals
+##### (Objetivos 🇧🇷)
+
+- Grow as a Full Stack Developer
+##### (Evoluir como Desenvolvedor Full Stack 🇧🇷)
+- Work on international projects
+##### (Trabalhar em projetos internacionais 🇧🇷)
+- Build my own SaaS products
+##### (Criar meus próprios produtos SaaS 🇧🇷)
+- Live abroad working with technology
+##### (Morar fora do Brasil trabalhando com tecnologia 🇧🇷)
+
+---
+
+## 🌎 Contact
+##### (Contato 🇧🇷)
 
 📧 theusfpss@gmail.com  
 📱 Instagram: @its.theusfpss  
@@ -69,5 +68,5 @@ Currently working on:
 
 ---
 
-⭐ Always learning, building, and evolving.  
-###### (Sempre aprendendo, criando e evoluindo 🇧🇷)
+⭐ Always learning, building, and evolving.
+##### (Sempre aprendendo, criando e evoluindo 🇧🇷)
