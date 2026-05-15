@@ -1,13 +1,10 @@
 # Hi 👋, I'm Matheus Gonçalves  
-###### (Olá, eu sou Matheus Gonçalves 🇧🇷)
-
 💻 **Junior Front-End Developer passionate about technology, design, automation, and building modern digital experiences.**  
 ###### (Desenvolvedor Front-End Junior apaixonado por tecnologia, design, automação e criação de experiências digitais modernas 🇧🇷)
 
 ---
 
 ## 🚀 Technologies & Tools  
-###### (Tecnologias e ferramentas 🇧🇷)
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
@@ -25,7 +22,6 @@
 ---
 
 ## 📚 About Me  
-###### (Sobre mim 🇧🇷)
 
 I'm a Junior Developer constantly improving my skills and exploring new technologies to build increasingly professional projects.  
 ###### (Sou um Desenvolvedor Junior em constante evolução, sempre buscando aprender novas tecnologias e criar projetos cada vez mais profissionais 🇧🇷)
